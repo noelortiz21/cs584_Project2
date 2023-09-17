@@ -5,7 +5,7 @@
 
 ### 2. cd into the parent directory run docker-compose up --build this will create a nginx server running flask along with an audio processing library
 
-### 3. The flask endpoint i have written accepts audio files at localhost:8086/api/file_tempo the input name has to be my_audio_file
+### 3. The flask endpoint i have written accepts audio files through a **POST** REQUEST ```localhost:8086/api/file_tempo``` the input name has to be ```my_audio_file```
 
 ### 4. Test this endpoint with the postman app you can download here https://www.postman.com/downloads/ 
 
