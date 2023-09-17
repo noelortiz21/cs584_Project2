@@ -1,0 +1,7 @@
+Flask
+Flask-SQLAlchemy
+pymysql
+gunicorn
+python-dotenv
+jsonify
+Flask-JSON
