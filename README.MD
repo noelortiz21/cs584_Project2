@@ -19,7 +19,7 @@
     "peak_2": 92.0
 }
 ```
-
+![alt text](https://github.com/marvinh-csun/assignment_2_Fall2023/blob/main/postman%20example.png)
 ## Part 2
 
 ### 1. Create an app using any framework locally doesnt have to use docker just anything simple local application with a date store that will store the responses by calling the rest endpoint localhost:8086/api/file_tempo
