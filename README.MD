@@ -32,6 +32,4 @@
 
 # Submission
 
-# github link to your effort in part 2 calling the rest endpoint and screen shot of the values you stored in your table
-
-### Github link to your effort in part 2 and screenshot of your table
+# Github link to your effort in part 2 calling the rest endpoint and screen shot of the values you stored in your table
