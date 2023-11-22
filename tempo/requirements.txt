@@ -5,4 +5,4 @@ gunicorn
 python-dotenv
 jsonify
 Flask-JSON
-Flask-cors
+Flask-CORS
